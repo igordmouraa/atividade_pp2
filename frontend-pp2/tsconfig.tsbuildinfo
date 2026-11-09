@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/biblioteca/FormLivro.tsx","./src/biblioteca/Generos.tsx","./src/biblioteca/ItemGenero.tsx","./src/biblioteca/ItemLivro.tsx","./src/biblioteca/ListaLivros.tsx","./src/biblioteca/Livros.tsx","./src/biblioteca/api.ts","./src/biblioteca/types.ts"],"version":"5.9.3"}
